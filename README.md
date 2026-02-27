@@ -19,3 +19,5 @@ I am an MSc Data Science graduate from Aston University with a Bachelor’s in B
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/tharmika-sothilingam-166659278?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpDopfpaBRMi431DuWYtzQA%3D%3D)  
 ✉️ Email: [tharmikasothilingam@gmail.com](mailto:tharmikasothilingam.com)
+
+<img src="Tharmika Sothilingam.jpg" alt="Profile Picture" width="150"/>
