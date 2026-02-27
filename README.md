@@ -15,3 +15,6 @@ I am an MSc Data Science graduate from Aston University with a Bachelor’s in B
 - **Data Visualization / BI Tools:** Power BI, Excel Charts, Matplotlib, Seaborn, KPI tracking, DAX queries  
 - **Machine Learning & Deep Learning:** Scikit-Learn, Keras, TensorFlow, statistical modelling, feature engineering, model evaluation  
 - **Workflow Management:** Data cleaning, end-to-end analysis, reporting
+
+## 📫 Connect with me
+[LinkedIn](linkedin.com/in/tharmika-sothilingam/)  
