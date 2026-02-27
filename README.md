@@ -17,4 +17,4 @@ I am an MSc Data Science graduate from Aston University with a Bachelor’s in B
 - **Workflow Management:** Data cleaning, end-to-end analysis, reporting
 
 ## 📫 Connect with me
-[LinkedIn](linkedin.com/in/tharmika-sothilingam/)  
+[LinkedIn](https://www.linkedin.com/in/tharmika-sothilingam/)  
